@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Crusher",
+        "operating_hour": 18,
+        "production": 150,
+        "status": "Running",
+        "maintenance_required": true
+    },
+    {
+        "name": "Ball Mill",
+        "operating_hour": 18,
+        "production": 900,
+        "status": "Running",
+        "maintenance_required": false
+    },
+    {
+        "name": "Conveyor",
+        "operating_hour": 18,
+        "production": 1350,
+        "status": "Running",
+        "maintenance_required": true
+    },
+    {
+        "name": "Pump",
+        "operating_hour": 0,
+        "production": 500,
+        "status": "Running",
+        "maintenance_required": false
+    },
+    {
+        "name": "Screen",
+        "operating_hour": 10,
+        "status": "Running",
+        "maintenance_required": false
+    }
+]

@@ -1,0 +1,31 @@
+MINING EQUIPMENT DAILY REPORT
+==============================
+Date: 2026-10-05
+
+Equipment: Crusher
+Throughput: 8.33 t/hr
+Performance: Below Target
+Status: Attention Required!
+
+Equipment: Ball Mill
+Throughput: 50.0 t/hr
+Performance: Excellent
+Status: Normal
+
+Equipment: Conveyor
+Throughput: 75.0 t/hr
+Performance: Excellent
+Status: Attention Required!
+
+Equipment: Pump
+ERROR: Invalid operating hours
+
+Equipment: Screen
+ERROR: Production data missing
+
+==============================
+REPORT SUMMARY
+==============================
+Total Equipment: 5
+Successfully Processed: 3
+Errors: 2
